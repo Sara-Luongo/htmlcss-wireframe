@@ -2,3 +2,6 @@ body {
     width: 512px;
     border: 2px dashed black;
 }
+h1{
+     color: red;
+}
