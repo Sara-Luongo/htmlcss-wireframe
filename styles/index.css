@@ -2,6 +2,18 @@ body {
     width: 512px;
     border: 2px dashed black;
 }
+
 h1{
      color: red;
+     margin-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 3px;
+}
+
+hr{
+    border:none;
+    margin-top: 0px;
+    height: 3px;
+    background-color: black;
+    
 }
